@@ -1,2 +1,2 @@
-# Indiana_study
+# Graduation_Thesis_JKSP
 Preparations in Korea
