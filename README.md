@@ -1,2 +1,2 @@
-# Graduation_Thesis_JKSP
+# Graduation_Thesis_JKPS
 Preparations in Korea
