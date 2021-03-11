@@ -1,2 +1,7 @@
-# Graduation_Thesis_JKPS
-Preparations in Korea
+# Report2vec
+
+Contact : MunjungKim(jennymunjung@postech.ac.kr)
+
+## Datasets
+
+### NKIS data
